@@ -9,10 +9,6 @@ _You can toggle the task status in any view or query and it will update the sour
 
 ---
 
-For changes in each release, please check the releases page: <https://github.com/obsidian-tasks-group/obsidian-tasks/releases>
-
----
-
 ## Screenshots
 
 - _All screenshots assume the [global filter](https://publish.obsidian.md/tasks/Getting+Started/Global+Filter) `#task` which is not set by default (see also [installation](https://publish.obsidian.md/tasks/Installation/Installation))._
