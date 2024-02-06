@@ -11,18 +11,22 @@ _You can toggle the task status in any view or query and it will update the sour
 
 ## Screenshots
 
-- _All screenshots assume the [global filter](https://publish.obsidian.md/tasks/Getting+Started/Global+Filter) `#task`
+- _All screenshots 
 
-![ACME Tasks](https://github.com/obsidian-tasks-group/obsidian-tasks/raw/main/docs/images/acme.png)
-
-
-![Important Project Tasks](https://github.com/obsidian-tasks-group/obsidian-tasks/raw/main/docs/images/important_project.png)
+![ACME Tasks](1.png)
 
 
-![Tasks Queries](https://github.com/obsidian-tasks-group/obsidian-tasks/raw/main/docs/images/tasks_queries.png)
+![Important Project Tasks](2.png)
 
 
-![Create or Edit Modal](https://github.com/obsidian-tasks-group/obsidian-tasks/raw/main/docs/images/modal.png)
+![Tasks Queries](3.png)
+
+
+![Create or Edit Modal](4.png)
+![Create or Edit Modal](5.png)
+![Create or Edit Modal](6.png)
+![Create or Edit Modal](7.png)
+
 
 
 ## Installation
@@ -47,7 +51,7 @@ Create a few tasks in a Markdown note in your vault. For example:
 - [ ] Send Kate a birthday card - with a scheduled date 🔁 every January on the 4th ⏳ 2023-01-04
 ```
 
-Find out more in [Getting Started](https://publish.obsidian.md/tasks/Getting+Started/Getting+Started), and its sub-sections.
+
 
 ### Create your first Tasks search
 
