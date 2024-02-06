@@ -11,20 +11,19 @@ _You can toggle the task status in any view or query and it will update the sour
 
 ## Screenshots
 
-- _All screenshots assume the [global filter](https://publish.obsidian.md/tasks/Getting+Started/Global+Filter) `#task` which is not set by default (see also [installation](https://publish.obsidian.md/tasks/Installation/Installation))._
-- _The theme is default Obsidian theme._
+- _All screenshots assume the [global filter](https://publish.obsidian.md/tasks/Getting+Started/Global+Filter) `#task`
 
 ![ACME Tasks](https://github.com/obsidian-tasks-group/obsidian-tasks/raw/main/docs/images/acme.png)
-The `ACME` note has some tasks.
+
 
 ![Important Project Tasks](https://github.com/obsidian-tasks-group/obsidian-tasks/raw/main/docs/images/important_project.png)
-The `Important Project` note also has some tasks.
+
 
 ![Tasks Queries](https://github.com/obsidian-tasks-group/obsidian-tasks/raw/main/docs/images/tasks_queries.png)
-The `Tasks` note gathers all tasks from the vault and displays them using queries.
+
 
 ![Create or Edit Modal](https://github.com/obsidian-tasks-group/obsidian-tasks/raw/main/docs/images/modal.png)
-The `Tasks: Create or edit` command helps you when editing a task.
+
 
 ## Installation
 
