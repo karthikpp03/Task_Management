@@ -1,4 +1,4 @@
-<h1 align="center">Obsidian Tasks</h1>
+<h1 align="center">Task Management </h1>
 
 <p align="center">Task management for the <a href="https://obsidian.md/">Obsidian</a> knowledge base.</p>
 
